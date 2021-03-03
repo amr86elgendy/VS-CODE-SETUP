@@ -1,0 +1,21 @@
+{
+  "editor.fontSize": 26,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDelete": false,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 18,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorBlinking": "expand",
+  "workbench.iconTheme": "material-icon-theme"
+}
